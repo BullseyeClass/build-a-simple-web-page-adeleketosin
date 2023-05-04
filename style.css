@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+}
+.page{
+    width: 500px;
+    height: 1000px;
+    margin: auto;
+}
+.page h1{
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.page img{
+    border: 5px solid goldenrod;
+    border-radius: 10px;
+}
+#btn{
+    background-color: rgb(187, 164, 106);
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 140px;
+
+}
+#btn:hover{
+    background-color: rgb(68, 157, 157);
+}
+#result{
+    margin-left: 140px;
+    margin-top: 20px;
+}
